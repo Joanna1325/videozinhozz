@@ -1,0 +1,23 @@
+body{
+   color: rgb(5, 0, 0);
+   background: rgb(14, 94, 7);
+
+   font-size: 32px;
+}
+
+
+header{
+   border-bottom: solid 2px white(255, 255, 255);
+   margin-left: 2px;
+   color:turquoise;
+}
+
+.chamada{
+    background:rgb(255, 255, 255) ;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+
+}
